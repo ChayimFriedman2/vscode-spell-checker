@@ -509,7 +509,7 @@
         "comment-json": "^1.1.3",
         "fs-extra": "^8.1.0",
         "kefir": "^3.8.6",
-        "node-watch": "^0.6.3",
+        "node-watch": "^0.7.0",
         "vscode-languageclient": "^5.2.1"
     }
 }
