@@ -55,7 +55,7 @@
     "mobx": "^5.14.2",
     "mobx-react": "^6.1.4",
     "mobx-react-devtools": "^6.1.1",
-    "node-sass": "^4.13.0",
+    "node-sass": "^4.13.1",
     "react": "^16.11.0",
     "react-dom": "^16.11.0",
     "react-json-view": "^1.19.1",
